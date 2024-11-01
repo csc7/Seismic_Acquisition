@@ -1,2 +1,2 @@
 # Seismic_Acquisition
-Seismic acquisition applications
+Seismic acquisition examples and applications.
